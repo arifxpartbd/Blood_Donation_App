@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Blood Donation App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="let_us">Let Us Know About You</string>
+    <string name="provide">Provide Your real name for your identy your name will be used for search</string>
+
+    <string name="contact_info">Contact Information</string>
+    <string name="contact_info2">Please provide correct phone no. This information will keep safe</string>
+
+    <string name="blood_group">Your blood group need to be accurate. If you do not about it, please contact nearest clinic</string>
+
+    <string name="weight">How Much Do YOu Weight</string>
+    <string name="weight_info2">Note: You Can not donate blood if you are under weight. Minimum weight for donation required 50 KG.</string>
+
+    <string name="gender_text">Defining your gender will let us know bring new features for mothers health care.</string>
+    <string name="postal">Please provide correct address. This information will keep safe</string>
+
+    <string name="date_text">Correct birth date give your best experience with the community. Don not hide it.</string>
+
+    <string name="image">Please do not use a model or doll avatar. Please keep faith on yourself you are beautiful too.</string>
+</resources>
